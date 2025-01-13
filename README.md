@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello! I am Shreya Halgeri, a final-year Computer Science student at PES University, Bangalore. My expertise lies in leveraging advanced AI/ML techniques, software development, and system architecture to create innovative solutions. I have worked on various projects involving Natural Language Processing (NLP), microservice architecture and even generative models for music creation. With a passion for contributing to impactful projects, I enjoy collaborating with professionals to drive technology-driven innovation.
+Hello! I am Shreya Halgeri, a final-year Computer Science student at PES University, Bangalore. My expertise lies in working with LLM Models and data to create innovative solutions. I have worked on various projects involving Natural Language Processing (NLP), microservice architecture and even generative models for music creation. With a passion for contributing to impactful projects, I enjoy collaborating with professionals to drive technology-driven innovation. I really like working in the feild of data science and exploring different new insights from the data . 
 
 ---
 
