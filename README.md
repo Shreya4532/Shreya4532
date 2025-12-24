@@ -16,6 +16,6 @@ Developed a microservice-based e-commerce website with independent services for 
 #### 3. [Language Identification System](https://github.com/AkshayAnand2931/LanguageIdentification)
 A team project developed as part of the university course on Natural Language Processing (NLP). The project involves creating a system that takes an audio sample, breaks it into sentences, and classifies each sentence into English, Hindi, or Code-Mixed. The system leverages various Python libraries for audio processing and uses an LSTM model for sentence classification.
 
-#### 4. [Noise-to-Music Capstone Project](https://github.com/Noise-to-music)
+#### 4. [Noise-to-Music Capstone Project](https://github.com/CappiePappies/Mask-Based-Diffusion-for-Music-Generation-From-Everyday-Sounds)
 This ongoing capstone project aims to transform everyday noise into low-fidelity music. By utilizing techniques like diffusion models and Music VAE, we are exploring innovative ways to generate music from raw audio signals. The project also delves into feature extraction methods and neural network-based models for audio transformation.
 
